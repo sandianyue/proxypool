@@ -1,5 +1,5 @@
 # your domain
-domain: example.com
+domain: vsvt.herokuapp.com
 
 # database url
 database_url: ""
