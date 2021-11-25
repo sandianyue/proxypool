@@ -25,6 +25,6 @@
     url: https://fanqiangdang.com/forum-48-1.html
 
 # 某个网站抓取
-- type: webfuzzzfj
+- type: webfuzz
   options:
-    url: https://zfjvpn.gitbook.io/123/
+    url: https://zfjvpn.gitbook.io/123
